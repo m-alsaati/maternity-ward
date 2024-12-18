@@ -8,7 +8,7 @@
  * File:   Patient.h
  * Author: Molham Alsaati, 500967065
  *
- * Created on November 5, 2021, 12:30 PM
+ *
  */
 
 #ifndef PATIENT_H
